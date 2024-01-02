@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background : linear-gradient(45deg , black , grey);
+}
+
+#textarea{
+    display: block;
+    background : transparent;
+    color:white;
+    padding: 10px;
+    outline: none;
+    border  : 2px solid black;
+    font-size: 18px;
+}
+
+button{
+    height: 3em;
+    width:6.18em;
+    background-color: transparent;
+    color:white;
+    cursor:pointer;
+
+}
+
+select{
+    width: 84%;
+    height: 38px;
+    cursor:pointer;
+}
+
